@@ -8,6 +8,9 @@ public class TestController {
 	public void test1(){
 	}
 
+	public void cek(){
+	}
+	
 	public void test2(){
 
 	}
