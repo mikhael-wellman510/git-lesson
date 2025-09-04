@@ -8,7 +8,7 @@ public class TestController {
 	public void test1(){
 	}
 
-	public void cek(){
+	public void cek2(){
 	}
 	
 	public void test2(){
