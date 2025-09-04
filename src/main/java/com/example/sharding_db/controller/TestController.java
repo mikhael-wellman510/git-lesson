@@ -17,7 +17,7 @@ public class TestController {
 
 	}
 	public void test3(){
-		log.info("cek");
+		log.info("cek2");
 	}
 
 }
