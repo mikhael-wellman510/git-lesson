@@ -36,4 +36,8 @@ public class TestController {
 	public void test7(){
 
 	}
+
+	public void rebase(){
+
+	}
 }
