@@ -14,4 +14,8 @@ public class TestController {
 	public void test2(){
 
 	}
+	public void test3(){
+
+	}
+
 }
