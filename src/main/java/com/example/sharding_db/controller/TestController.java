@@ -20,6 +20,11 @@ public class TestController {
 		log.info("cek2");
 	}
 
+	public void master(){
+
+	}
+
+
 	public void test5(){
 
 	}
